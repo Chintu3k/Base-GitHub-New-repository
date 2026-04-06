@@ -1,1 +1,4 @@
 Hello Base
+All requirements for running a local Base node. 
+GitHub
+Base Guild
