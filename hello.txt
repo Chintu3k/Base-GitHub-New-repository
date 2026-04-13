@@ -1,4 +1,4 @@
 Hello Base
 All requirements for running a local Base node. 
-GitHub
+GitHub Day 3
 Base Guild
